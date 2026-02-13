@@ -1,5 +1,4 @@
 obj-m += simple.o
-obj-m += hello.o
 obj-m += jiffies.o
 obj-m += seconds.o
 
